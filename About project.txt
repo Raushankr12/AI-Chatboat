@@ -1,0 +1,8 @@
+Here’s a basic version of an AI chatbot project using Python and the Google Gemini API (now known as the Gemini Pro model via Google Generative AI SDK). This project demonstrates:
+
+Using the Gemini API to handle natural language queries
+
+Multi-turn conversations
+
+A simple command-line interface (can be extended into a GUI later)
+

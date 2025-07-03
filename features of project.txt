@@ -1,0 +1,9 @@
+✅ Features Included
+
+✅ Real-time interaction using Gemini Pro
+
+✅ Multi-turn conversation (chat object maintains history)
+
+✅ Contextual responses
+
+✅ Simple command-line interface
